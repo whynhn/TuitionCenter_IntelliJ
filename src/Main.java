@@ -1,9 +1,9 @@
 import java.util.*;
-import java.text.DecimalFormat;
+
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
-        final DecimalFormat df = new DecimalFormat("0.00");
+      
 
         float total =0;
         float average;
